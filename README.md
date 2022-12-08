@@ -1,4 +1,4 @@
-# 在项目中即成eslint
+# 在项目中集成eslint
 ## 全局安装 eslint
 `npm install -g eslint`
 
